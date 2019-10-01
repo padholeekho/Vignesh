@@ -1,0 +1,75 @@
+.cardSetup{
+    width: 100%;
+    min-height: 340px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.cardSetupList{
+    min-height: 228px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.nameText{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+}
+.contactText{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    padding: 4px;
+}
+.changePwd{
+    font-size: 7px;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 5px;
+    color: green;
+}
+th{
+    background-color: #aaaaaa;
+    font-size: 9px;
+    color: #fff;
+    padding: 8px;
+    border-right: 2px solid;
+}
+th:last-child{
+    border-right: 0;
+}
+td{
+    padding: 8px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+}
+.listHeading{
+    padding: 15px;
+    border-bottom: 2px solid #dfdfdf;
+    font-weight: bold;
+}
+.listBtn{
+    margin-left: 5px;
+    margin-top: 10px;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 1px;
+}
+.listBtn2{
+    margin-left: 5px;
+    margin-top: 10px;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 1px;
+    background-color: green;
+    color: #fff;
+}
+.listMar{
+    font-size: 8px;
+    margin:5px
+}
